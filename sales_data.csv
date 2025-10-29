@@ -1,0 +1,16 @@
+Date,Region,Product,Sales,Quantity
+2025-01-01,North,Laptop,80000,4
+2025-01-01,South,Mobile,40000,8
+2025-01-02,East,Headphones,15000,10
+2025-01-02,West,Laptop,90000,5
+2025-01-03,North,Tablet,35000,6
+2025-01-03,South,Mobile,42000,9
+2025-01-04,East,Laptop,95000,6
+2025-01-04,West,Headphones,16000,12
+2025-01-05,North,Tablet,37000,7
+2025-01-05,South,Mobile,39000,8
+2025-02-01,East,Laptop,97000,7
+2025-02-01,West,Headphones,18000,15
+2025-02-02,North,Tablet,36000,6
+2025-02-02,South,Mobile,41000,9
+2025-02-03,East,Laptop,94000,7
